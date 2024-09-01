@@ -1,0 +1,9 @@
+{
+	"name":"La Tartine",
+	"logo":"src/resource/Img_Logo.png",
+	"contacts":[3155323225,3125323182,3175108662],
+	"schedule": "Atendemos de lunes a viernes de 8am a 7pm",
+	"descriptionEnt": "Somos una repostería con más de 30 años en el mercado transformando los mejores ingredientes en momentos especiales.
+	Creamos sabores auténticos plasmados en productos de repostería, galletería y panadería caracterizados por la naturalidad y calidad pero sobre todo por nuestras técnicas que combinan lo artesanal con la tradición y la innovación. La combinación perfecta para encontrar en el placer de la repostería y panadería una deliciosa opción.
+	Nuestra experiencia, el compromiso con la calidad y la atención de nuestro gran equipo humano nos han permitido entregar la más acertada asesoría para las necesidades que surgen en cada uno de los servicios brindados dentro de nuestro portafolio, convirtiéndolos así en momentos especiales."	
+}
